@@ -16,6 +16,14 @@ A través de estos ejercicios se exploran los conceptos fundamentales de Three.j
 
 Cada carpeta representa una lección del curso con su propio proyecto y ejercicios prácticos.
 
+## Ejemplos
+
+Estos son algunos ejemplos básicos de lo que se puede crear con Three.js:
+
+![Donut](./donut.png)
+
+![Textures](./textures.png)
+
 ## Estructura
 
 - `04-transform-objects/` - Transformación de objetos
